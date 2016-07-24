@@ -1,0 +1,21 @@
+.updated-text {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: 10px 0;
+  font-size: 11px;
+  text-align: center;
+}
+
+.table-view-cell .icon {
+  color: #007aff;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.brand-image {
+  display: inline-block;
+  margin: 20px 0;
+}
